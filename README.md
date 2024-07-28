@@ -1,2 +1,2 @@
-# Fcc---technical-doc 
+# Fcc---Technical-doc 
 Free Code Camp - project #3
